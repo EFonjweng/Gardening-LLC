@@ -1,2 +1,2 @@
-# Gardening-LLC
+# Garden-business-site
 My Gardening LLC website
